@@ -1,0 +1,6 @@
+git init
+git status
+git remote add origin https://github.com/eijitnk/javascript.git
+git add .
+git status
+git commit -m "commit inicial"
